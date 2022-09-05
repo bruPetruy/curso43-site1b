@@ -1,8 +1,12 @@
+body{
+    
+}
+
 h1 {
     text-align: center;
 }
 
-p { 
+ p {   
     text-align: center;
 }
         
