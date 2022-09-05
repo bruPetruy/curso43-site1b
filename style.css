@@ -4,9 +4,10 @@ body{
 
 h1 {
     text-align: center;
+    background: rgb(10, 89, 179);
 }
 
- p {   
+p {   
     text-align: center;
 }
         
