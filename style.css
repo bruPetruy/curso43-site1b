@@ -29,3 +29,10 @@ p {
     .beneficios {
         background-color:rgb(187, 127, 243)
     }
+    ul {
+        display: inline-block;
+        vertical-align: top;
+    }
+    #cosmeticos2 {
+        width: 50%;
+    }
