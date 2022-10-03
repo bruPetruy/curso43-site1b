@@ -4,7 +4,7 @@ body{
 }
 
 #cosmeticos {
- width: 90%;
+ width: 50%;
  height: 250px;
 
 }
@@ -20,7 +20,7 @@ p {
 }
  .itens {
     font-style: italic;
-    color: rgb(202, 161, 202);
+    color: rgb(172, 129, 172);
  }
 
     h2 {
