@@ -21,4 +21,11 @@ p {
  .itens {
     font-style: italic;
  }
-        
+
+    h2 {
+        text text-align: center;
+    }    
+
+    .beneficios {
+        background-color:rgb(187, 127, 243)
+    }
