@@ -1,6 +1,7 @@
 header{ 
-    background: rgb(185, 120, 171)
+    background: rgb(122, 145, 175)
 }
  nav li {
      display:inline;
+     margin: 10px;
  }
