@@ -11,6 +11,9 @@ h1 {
 
 nav{
     display:inline-block;
+    position: absolute;
+    right: 30px;
+    top:110;
 }
 
 nav li {
