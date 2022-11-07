@@ -1,5 +1,6 @@
 header{ 
     background: rgb(122, 145, 175);
+    padding: 20px 0;
 }
 
 .caixa-nav{
@@ -7,6 +8,7 @@ header{
     width: 948px;
     margin: 0 auto;
 }
+
 h1 {
     display:inline;
 }
